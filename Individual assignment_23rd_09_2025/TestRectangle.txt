@@ -1,0 +1,8 @@
+package register;
+
+public class TestRegistration {
+	public static void main(String [] args){
+		new RegistrationForm();
+	}
+
+}
