@@ -1,4 +1,4 @@
-# Inventory Management System  
+# WareHouse Management System  
 
 A Java Swing and MySQL-based system to manage suppliers, products, and warehouse operations with full CRUD functionality.  
 It provides an easy interface for adding, updating, and tracking suppliers and their products.  
